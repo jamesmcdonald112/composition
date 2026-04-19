@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "source-notes.md"
             }
+          },
+          {
+            "id": "49144146e10480e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/source-notes.md.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "source-notes.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c7e02c291768814",
+  "active": "238b555e3c7a7bc0",
   "lastOpenFiles": [
-    "Welcome.md",
     "templates/source-notes.md.md",
+    "sources/benjaminCraftTonalCounterpoint2003.md",
+    "Welcome.md",
     "sources",
     "counterpoint/concepts/Example noe.md",
     "create a link.md",

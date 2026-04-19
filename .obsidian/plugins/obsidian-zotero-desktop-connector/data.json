@@ -10,7 +10,15 @@
       "format": "formatted-citation"
     }
   ],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "source-notes",
+      "outputPathTemplate": "sources/{{citekey}}.md",
+      "imageOutputPathTemplate": "sources/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "templates/source-notes.md.md"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note"
