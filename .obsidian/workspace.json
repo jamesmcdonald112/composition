@@ -54,9 +54,57 @@
               "icon": "lucide-file",
               "title": "source-notes.md"
             }
+          },
+          {
+            "id": "84a71dea1cbbca83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/source-notes.md.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "source-notes.md"
+            }
+          },
+          {
+            "id": "cd852b1923faf48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,7 +280,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "238b555e3c7a7bc0",
+  "active": "cd852b1923faf48c",
   "lastOpenFiles": [
     "templates/source-notes.md.md",
     "sources/benjaminCraftTonalCounterpoint2003.md",

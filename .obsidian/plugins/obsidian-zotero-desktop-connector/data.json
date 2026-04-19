@@ -12,9 +12,9 @@
   ],
   "exportFormats": [
     {
-      "name": "source-notes",
+      "name": "Plain text",
       "outputPathTemplate": "sources/{{citekey}}.md",
-      "imageOutputPathTemplate": "sources/{{citekey}}/",
+      "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "templates/source-notes.md.md"
     }
