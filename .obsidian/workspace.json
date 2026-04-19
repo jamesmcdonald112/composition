@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "templates/source-notes.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "source-notes.md"
             }
           }
         ]
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,17 +202,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "238b555e3c7a7bc0",
+  "active": "5c7e02c291768814",
   "lastOpenFiles": [
+    "Welcome.md",
+    "templates/source-notes.md.md",
+    "sources",
     "counterpoint/concepts/Example noe.md",
     "create a link.md",
     "counterpoint/Untitled.md",
     "templates",
     "counterpoint/concepts",
-    "counterpoint",
-    "Welcome.md"
+    "counterpoint"
   ]
 }
