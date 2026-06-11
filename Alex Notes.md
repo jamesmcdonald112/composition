@@ -1,3 +1,6 @@
+
+
+
 ## SEO
 
 - seo - article size and depth, what to write and how to write
