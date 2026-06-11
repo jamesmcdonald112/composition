@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Alex Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Alex Notes"
             }
           }
         ],
@@ -280,11 +280,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "238b555e3c7a7bc0",
+  "active": "cd852b1923faf48c",
   "lastOpenFiles": [
     "templates/source-notes.md.md",
     "sources/benjaminCraftTonalCounterpoint2003.md",
-    "Welcome.md",
+    "Alex Notes.md",
     "sources",
     "counterpoint/concepts/Example noe.md",
     "create a link.md",
