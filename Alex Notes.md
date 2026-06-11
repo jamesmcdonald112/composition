@@ -32,4 +32,12 @@
 	- Musical theory should  be finsihed was alans theory, but alex said the books they had are very difficult so might not be realistc
 	- Alex thinks there can be a beginner level where they have some level of reading. 
 	- The same goes for the instrument, the piano is great to have, but at the same time, if the person plays another instrument, then it is not impossible to start
-	- 
+
+
+## Unique course
+- Composition for beginner beginners
+	- people might identify as beginner but 
+	- include rhythm, melody and harmony as part of it for basics, texture, piano textures, and idioms
+	- send on videos on reharmonisation
+
+think about
