@@ -1,0 +1,5 @@
+i had an idea of two things, essay by jrdan peterson has the option to write a sentence or paragraph and then write variation on it and see it in context of the piece of writing wne then chagne na drewrie until t fits, maybe something like that for us would be godog.
+
+also, when ti comes to wrting meldoy, could we limit to specifi motives? in this way we can start our composions sing the same ideas in differenrt contexts an mix the motives together and then that will help us when it comes to devleoplemt as we are jsut usnig the same motives an maybe we will ahve a project or multiple projects based on those motives and get into the habit of developing them, and the same then in order proejct so the student now has almost like a schema of motives they have command of adn as alex mentioned we can do harmony exercises in reverse, using you get a melody adn harmoivse it what we might do is get a harmony and add the melody to it, maybe based on our motives?
+
+does that makse sense and do yo HAVE quesitons on it

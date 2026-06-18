@@ -83,14 +83,76 @@
             "id": "cd852b1923faf48c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Thoguhts for Alex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoguhts for Alex"
+            }
+          },
+          {
+            "id": "72ec9bb17ef715db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Last meeting raw notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Last meeting raw notes"
+            }
+          },
+          {
+            "id": "42b3b6c7638c8fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoguhts for Alex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoguhts for Alex"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,9 +328,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd852b1923faf48c",
+  "active": "42b3b6c7638c8fb0",
   "lastOpenFiles": [
-    "Alex Notes.md",
+    "Last meeting summarised notes.md",
+    "Last meeting raw notes.md",
+    "Thoguhts for Alex.md",
     "templates/source-notes.md.md",
     "sources/benjaminCraftTonalCounterpoint2003.md",
     "sources",
