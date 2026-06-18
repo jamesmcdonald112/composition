@@ -83,24 +83,10 @@
             "id": "cd852b1923faf48c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alex Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Alex Notes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -282,9 +268,9 @@
   },
   "active": "cd852b1923faf48c",
   "lastOpenFiles": [
+    "Alex Notes.md",
     "templates/source-notes.md.md",
     "sources/benjaminCraftTonalCounterpoint2003.md",
-    "Alex Notes.md",
     "sources",
     "counterpoint/concepts/Example noe.md",
     "create a link.md",
