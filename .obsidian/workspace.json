@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch notes.md",
+                "file": "Thoguhts for Alex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scratch notes"
+              "title": "Thoguhts for Alex"
             }
           }
         ],
@@ -330,9 +330,9 @@
   },
   "active": "42b3b6c7638c8fb0",
   "lastOpenFiles": [
+    "Scratch notes.md",
     "Thoguhts for Alex.md",
     "Last meeting summarised notes.md",
-    "Scratch notes.md",
     "Last meeting raw notes.md",
     "templates/source-notes.md.md",
     "sources/benjaminCraftTonalCounterpoint2003.md",
