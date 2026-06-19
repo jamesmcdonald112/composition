@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Thoguhts for Alex"
             }
+          },
+          {
+            "id": "38233f21600f5de5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scratch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scratch"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -328,10 +352,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42b3b6c7638c8fb0",
+  "active": "38233f21600f5de5",
   "lastOpenFiles": [
-    "Scratch notes.md",
     "Thoguhts for Alex.md",
+    "Scratch.md",
+    "Scratch notes.md",
     "Last meeting summarised notes.md",
     "Last meeting raw notes.md",
     "templates/source-notes.md.md",
