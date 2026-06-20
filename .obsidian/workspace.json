@@ -150,33 +150,9 @@
               "icon": "lucide-file",
               "title": "Thoguhts for Alex"
             }
-          },
-          {
-            "id": "38233f21600f5de5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scratch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scratch"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -352,7 +328,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38233f21600f5de5",
+  "active": "238b555e3c7a7bc0",
   "lastOpenFiles": [
     "Thoguhts for Alex.md",
     "Scratch.md",
